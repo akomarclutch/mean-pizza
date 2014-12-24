@@ -1,4 +1,0 @@
-missing dependencies
-default to error view
-unit test failing
-angular module missing

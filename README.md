@@ -15,11 +15,8 @@ available routes
 /api/pizza/:pizza_id (put - update pizza with specific id - 200)
 
 /api/pizza/:pizza_id (delete - delete pizza with specific id - 200)
-
 ================
 
 \*post and put expect "name" as key in request body
 
 \*\*pizza_id is converted to ObjectID()
-
-================
